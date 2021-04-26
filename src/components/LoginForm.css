@@ -1,0 +1,20 @@
+.form {
+  background: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  max-width: 400px;
+  width: 100%;
+}
+
+.form label {
+  font-weight: 600;
+}
+
+.form-title {
+  text-align: center;
+}
+
+.form-error {
+  color: #DF4957;
+  font-weight: 600;
+}

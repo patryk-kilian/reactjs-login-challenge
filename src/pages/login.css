@@ -1,0 +1,7 @@
+.login-page {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background: #3769DA;
+  padding: 0 10px;
+}
